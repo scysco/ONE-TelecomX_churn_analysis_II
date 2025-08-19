@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-blue.svg?style=for-the-badge&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-blue.svg?style=for-the-badge&logo=scikit-learn)
 ![imblearn](https://img.shields.io/badge/imbalanced--learn-0.10%2B-blue.svg?style=for-the-badge)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scysco/TelecomX_churn_analysis_II/blob/main/TelecomX_LATAM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scysco/ONE-TelecomX_churn_analysis_II/blob/main/TelecomX_LATAM.ipynb)
 
 ---
 
